@@ -1,0 +1,20 @@
+{
+  "pacientes": [
+    {
+      "mascota": "Loky",
+      "propietario": "Gerald",
+      "email": "lucioanoramirezgerald@gmail.com",
+      "fecha": "1111-11-11",
+      "sintomas": "eeeeeeee",
+      "id": "3a72"
+    },
+    {
+      "id": "15d2",
+      "mascota": "opk",
+      "propietario": "ji",
+      "email": "JovannaRamirez@gmail.com",
+      "fecha": "80880-09-09",
+      "sintomas": "uhhu"
+    }
+  ]
+}
